@@ -1,0 +1,21 @@
+@media (max-width:600px){
+
+  .products{
+      display: inherit;
+      height: auto;
+      padding: 10px;
+  }
+
+  .product{
+      margin-top:auto;
+  }
+  .main_section{
+      padding: 4%;
+  }
+  .product .content{
+
+    padding: 35px;
+    image-resolution: 10%;
+
+  }
+}
